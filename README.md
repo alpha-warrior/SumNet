@@ -20,8 +20,9 @@ cd project
 jupyter notebook SUM.ipynb    
 ```
 
-# model
-model = SumNet()
+# code
+SUM2.ipynb
+SUM_overfitted.ipynb
 
-# data
-train, val = provided dataset.
+# model
+SumNet_initial_model
