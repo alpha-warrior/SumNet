@@ -26,3 +26,7 @@ SUM_overfitted.ipynb
 
 # model
 SumNet_initial_model
+
+# Working Example
+### The Image
+![Image of 4 digits](https://github.com/alpha-warrior/SumNet/blob/main/Images/1.png)
