@@ -30,3 +30,7 @@ SumNet_initial_model
 # Working Example
 ### The Image
 ![Image of 4 digits](https://github.com/alpha-warrior/SumNet/blob/main/Images/1.png)
+### Digit Detection
+![Image of 4 digits](https://github.com/alpha-warrior/SumNet/blob/main/Images/2.png)
+### Digit Recognition
+![Image of 4 digits](https://github.com/alpha-warrior/SumNet/blob/main/Images/3.png)
